@@ -48,5 +48,5 @@ A modern, AI-powered email client that helps you manage your inbox more efficien
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-email-assistant.git
-   cd ai-email-assistant
+   git clone https://github.com/shravani2022/AI_Email_Personal_assistant-.git
+   cd AI_Email_Personal_assistant-
